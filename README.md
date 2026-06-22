@@ -110,7 +110,7 @@ cargo build --release
 
 ## 🤝 贡献
 
-本项目处于 **概念验证（PoC）** 阶段，欢迎对 Rust / CEF / FFmpeg 感兴趣的极客一起造轮子！  
+本项目处于 **概念研究** 阶段，欢迎对 Rust / CEF / FFmpeg 感兴趣的极客一起讨论。
 Issue / PR 请遵循 [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)。
 
 ---
