@@ -1,3 +1,4 @@
+> Status: Conceptual Design / Pre-implementation
 # ⭐ GrepSVideo — 让 LLM 驱动像素，让 Rust 驾驭管道
 
 > **一句话定位**：一个基于 Rust + CEF + FFmpeg 的 AI 视频生成引擎 —— 用自然语言描述视频，LLM 生成动画脚本，离屏渲染 + 零拷贝管道直出 4K 视频。
